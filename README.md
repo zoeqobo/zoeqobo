@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏽‍💻 I'm a final-year BSc in IT (specializing in Software Engineering) student at Eduvos.<br>📂 Up until this point, I've mainly worked on school projects ( not much personal, but I'm changing that right now!)<br>🤔 My curiosity in the field started in grade 9 but before that I always had an interest in electronic devices.<br>🆕 I'm still new here so bare with me!<br>📲 Lets connect on LinkedIn!
+👩🏽‍💻 I'm a final-year BSc in IT (specializing in Software Engineering) student.<br>📂 Up until this point, I've mainly worked on school projects ( not much personal, but I'm changing that right now!)<br>🤔 My curiosity in the field started in grade 9 but before that I always had an interest in electronic devices.<br>🆕 I'm still new here so bare with me!<br>📲 Lets connect on LinkedIn!
 
 
 ## 🌐 Socials:
